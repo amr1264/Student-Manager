@@ -1,0 +1,5 @@
+10006789,Amr Elmetwaly Elsaid,19,3,IS
+10003456,Mahmoud Elsaid Ahmed,19,2,IT
+10006754,Yousef Mustafa Mohamed,19,2,IS
+10002134,Nada Mohamed Ragab,19,2,IS
+10004356,Nesma Ahmed Sameh,20,3,IT
